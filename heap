@@ -1,2 +1,4 @@
 # The use of heap in python
-import heapq
+from heapq import *
+
+#
